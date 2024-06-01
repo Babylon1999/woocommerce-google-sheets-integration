@@ -37,7 +37,7 @@ class Google_Sheets_Integration
 
 		$this->service = new Google_Service_Sheets($this->client);
 		// Add the spreadsheet id here.
-		$this->spreadsheet_id = '1NXTz{the rest of your spreadsheet id}fnx5UgU';
+		$this->spreadsheet_id = 'your_sheet_id';
 
 		// Hooks for WooCommerce actions
 		add_action('woocommerce_order_status_completed', array($this, 'send_order_details_to_sheet'), 9, 1);
