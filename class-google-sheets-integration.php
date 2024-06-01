@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: WooCommerce Orders Google Sheet Integration
- * Description: A simple development plugin to send WooCommerce order details to Google Sheet.
+ * Description: A simple starter plugin to help you connect WooCommerce orders with Google Sheets.
  * Version: 1.0.0
  * Author: Saif Hassan
  * Author URI: https://saif-hassan.com
