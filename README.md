@@ -1,6 +1,6 @@
 # WooCommerce Google Sheets Integration
 
-A simple plugin to automatically send your WooCommerce store orders to a Google Sheet. This plugin is not intended to be a user-friendly solution but rather a starter kit for developers working on a similar solution.
+A simple plugin to automatically send your WooCommerce store orders to a Google Sheet. There's no JS, no css, no settings page, just a single php file (less than 110 lines of code).
 
 ## Requirements
 
